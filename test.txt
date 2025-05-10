@@ -1,0 +1,8 @@
+git add . 
+
+git commit -m "test file"
+
+git push origin branchname 
+
+git push origin master
+
